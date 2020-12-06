@@ -4,6 +4,48 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Documentation"
-  url = "docs/"
+  name = "services"
+  url = "#features"
   weight = 10
+  
+  [[main]]
+  name = "policy"
+  url = "#policy"
+  weight = 20
+
+[[main]]
+  name = "roadmap"
+  url = "#roadmap"
+  weight = 30
+
+[[main]]
+  name = "guidelines"
+  url = "docs/"
+  weight = 40
+
+[[main]]
+  name = "training"
+  url = "docs/"
+  weight = 50
+
+[[main]]
+  name = "support"
+  url = "docs/"
+  weight = 50
+
+[[main]]
+  name = "REDCap"
+  url = "docs/"
+  weight = 60
+
+  
+[[main]]
+  name = "DMPOnline"
+  url = "docs/"
+  weight = 70
+
+  
+[[main]]
+  name = "DataVerse"
+  url = "docs/"
+  weight = 80

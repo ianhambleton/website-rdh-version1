@@ -1,0 +1,23 @@
+{{ $st := .page }}
+<div class="content">
+  {{with $st.Title}}
+    <header>
+      <h1 style="text-align:center;">{{.}}</h1>
+    </header>
+  {{end}}
+  {{with $st.Params.subtitle}}
+    <h2 style="text-align:center;">{{ .|markdownify|emojify }}</h2>
+  {{end}}
+  {{with $st.Params.text1}}
+    <p style="text-align:center;">{{ .|markdownify|emojify }}</p>
+  {{end}}
+  {{with $st.Params.text2}}
+    <p style="text-align:center;">{{ .|markdownify|emojify }}</p>
+  {{end}}
+  {{with $st.Params.text3}}
+    <p style="text-align:center;">{{ .|markdownify|emojify }}</p>
+  {{end}}
+  {{with $st.Params.text4}}
+    <p style="text-align:center;">{{ .|markdownify|emojify }}</p>
+  {{end}}
+</div>

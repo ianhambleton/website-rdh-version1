@@ -3,10 +3,10 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "Features"
-subtitle = "Document _anything_ ✨"
+title = ""
+subtitle = ""
 
 # Showcase features.
 # 
@@ -16,28 +16,46 @@ subtitle = "Document _anything_ ✨"
 
 [[feature]]
   icon = "book-open"
-  icon_pack = "fas"
-  name = "Project Documentation"
-  description = "For users"
+  icon_pack = "custom"
+  name = "RDH guidelines"
+  description = "How to guides. [Read our guidelines](docs/#_index) on all aspects of Research Data Handling"
   
 [[feature]]
-  icon = "question"
-  icon_pack = "fas"
-  name = "Knowledge Base"
-  description = "For teams"  
+  icon = "chalkboard-teacher"
+  icon_pack = "custom"
+  name = "RDH training"
+  description = "<a href=\"http://html5up.net\" target=_blank>Sign-up</a> for our short courses, online and face-to-face."
   
 [[feature]]
   icon = "list-alt"
-  icon_pack = "fas"
-  name = "Personal Notebook"
-  description = "For yourself"
+  icon_pack = "custom"
+  name = "RDH policy / Roadmap"
+  description = "Read the University [RDH policy](#policy). Follow our progress towards our RDH commitments using our [roadmap](#roadmap)."
+
+[[feature]]
+  icon = "dmp"
+  icon_pack = "custom"
+  name = "DMP Online"
+  description = "Write your project Data Management Plan using these <a href=\"https://dmponline.dcc.ac.uk\" target=_blank>approved templates</a>"
+
+[[feature]]
+  icon = "redcap_withblue"
+  icon_pack = "custom"
+  name = "REDCap"
+  description = "<a href=\"https://caribdata.org/redcap\" target=_blank>Login</a> to our online software for collecting and managing your research data"
+
+[[feature]]
+  icon = "dataverse"
+  icon_pack = "custom"
+  name = "DataVerse"
+  description = "Software for sharing your data resources with colleagues. <a href=\"https://dataverse.org\" target=_blank>Coming soon</a>. "
 
 # Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+#  [[feature]]
+#   icon = ":smile:"
+#   icon_pack = "emoji"
+#   name = "Emojiness"
+#   description = "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
@@ -49,3 +67,5 @@ subtitle = "Document _anything_ ✨"
 #  description = "90%"
 
 +++
+## What we do
+<br>

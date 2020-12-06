@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Research Data Handling Guidelines
 type: book  # Do not modify.
 ---
 
