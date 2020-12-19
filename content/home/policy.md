@@ -13,8 +13,9 @@ subtitle: Draft version 0.9 (3-Dec-2020)
 **Draft** Research Data Handling policy for The Univesity of the West Indies, Cave Hill campus.
 
 {{% callout note %}}
-This is an _aspirational_ policy, and we expect full implementation to take several years. An accompanying RDH roadmap monitors progress towards achieving policy goals. Visit the roadmap to see our progress.
+This is an _aspirational_ policy, and we expect full implementation to take several years. An accompanying RDH roadmap monitors progress towards achieving policy goals. [Explore the roadmap]({{< ref "#roadmap" >}}) to see our progress.
 {{% /callout %}}
+
 
 |section|policy|
 |---|---|

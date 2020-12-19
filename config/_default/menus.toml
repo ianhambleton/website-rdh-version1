@@ -25,27 +25,27 @@
 
 [[main]]
   name = "training"
-  url = "docs/"
+  url = "/"
   weight = 50
 
 [[main]]
   name = "support"
-  url = "docs/"
+  url = "/"
   weight = 50
 
 [[main]]
   name = "REDCap"
-  url = "docs/"
+  url = "#redcap"
   weight = 60
 
   
 [[main]]
   name = "DMPOnline"
-  url = "docs/"
+  url = "/"
   weight = 70
 
   
 [[main]]
   name = "DataVerse"
-  url = "docs/"
+  url = "/"
   weight = 80
